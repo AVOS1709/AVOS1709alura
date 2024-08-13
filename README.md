@@ -1,1 +1,3 @@
-# AVOS1709alura
+Bem vindo ao meu perfil!!!
+Meu nome: Alice Vitoria
+Estou estudando no alura....
